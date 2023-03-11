@@ -1,0 +1,2 @@
+client_post folder.jpg 127.0.0.1 3490
+client_get fold/f.txt 127.0.0.1 3490
